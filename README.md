@@ -189,4 +189,4 @@ functions:
 - Intermediatecode(): used for printing intermediate code once parsing is complete...
 
 
-This documentation is signed off by Kranthi Kiran Guduru and Sri Krishna Shanmukh, B.Tech 3/4, Computer Science and Engineering, NIT Warangal.
+This documentation is signed off by [Kranthi Kiran Guduru](http://www.kranthikiran.in/) and [Sri Krishna Shanmukh](http://github.com/krishanmukh), B.Tech 3/4, Computer Science and Engineering, NIT Warangal.
