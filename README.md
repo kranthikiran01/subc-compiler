@@ -12,7 +12,7 @@ To install flex and yacc in Ubuntu:
 
 To install flex and yacc in Fedora:
 
-* __sudo yum install flex__
+* __sudo yum install flex flex-devel__
 * __sudo yum install bison__
 
 Steps to execute the project:
